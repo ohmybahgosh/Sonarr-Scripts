@@ -7,7 +7,7 @@
 ##
 ##
 
-## Set script variables: ##
+#### Set script variables: ####
 
 ###Update PLEX_URL If Needed - Should Work as is for most setups###
 PLEX_URL=http://127.0.0.1:32400
